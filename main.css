@@ -1,0 +1,21 @@
+.navs-item {padding-left:20px;}
+#logo-main {margin: 10px;}
+
+
+body {
+  background: #333333;
+  margin: 0 20px;
+}
+#carouselExampleControls{
+  width: 65%;
+  margin: 30px 17.3%;
+}
+.jumbotron{
+  background: #fff;
+}
+
+.tripcoursel {background-color: #e5dfdf;
+margin: 0;}
+
+.popimg {width: 100%;
+height: 500px;}
